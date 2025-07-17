@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radha Krishna</h1>
 <h3 align="center">Aspiring Frontend / Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300" src=""https://1drv.ms/i/c/db36458aa9c1dd2a/Ee-wsUZYJr1LgMnjd40zmdcBchaR1Di74RRY5uZ4ADpKPg?e=HjK9NJ"" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🌱 I’m currently working on **React, Express, and Full Stack Projects**
 - 👨‍💻 All of my projects are available at **[(https://github.com/radhakrishna1812)]**
@@ -10,7 +10,11 @@
 - 📄 Resume: **[(https://drive.google.com/file/d/1bHKwhf3huN5bbOwft1ZTyDWE1H8n09qD/view?usp=drivesdk)]**
 - ⚡ Fun fact: I love discussing tech with friends and learning something new every day.
 
----
+
+ -   Hey there! I'm a dedicated MERN Full Stack Developer passionate about building robust, scalable, and responsive web applications. I recently completed an intensive full stack development course focusing on        MongoDB, Express.js, React, and Node.js, where I worked on multiple real-world projects covering both frontend and backend development.
+      
+     From building dynamic user interfaces with React.js to developing RESTful APIs using Node.js and Express, and managing data efficiently with MongoDB, I have gained practical experience across the entire           development lifecycle. I'm a problem solver at heart who enjoys learning new technologies, collaborating on impactful projects, and continuously leveling up my skills. Let’s connect and build something            awesome! 🚀
+-
 
 ### 🛠️ Tech Stack:
 
