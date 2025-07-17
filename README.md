@@ -12,8 +12,8 @@
 
  -   Hey there! I'm a dedicated MERN Full Stack Developer passionate about building robust, scalable, and responsive web applications. I recently completed an intensive full stack development course focusing on        MongoDB, Express.js, React, and Node.js, where I worked on multiple real-world projects covering both frontend and backend development.
       
-     From building dynamic user interfaces with React.js to developing RESTful APIs using Node.js and Express, and managing data efficiently with MongoDB, I have gained practical experience across the entire           development lifecycle. I'm a problem solver at heart who enjoys learning new technologies, collaborating on impactful projects, and continuously leveling up my skills. Let’s connect and build something            awesome! 🚀
--
+ -   From building dynamic user interfaces with React.js to developing RESTful APIs using Node.js and Express, and managing data efficiently with MongoDB, I have gained practical experience across the entire           development lifecycle. I'm a problem solver at heart who enjoys learning new technologies, collaborating on impactful projects, and continuously leveling up my skills. Let’s connect and build something            awesome! 🚀
+
 
 ### 🛠️ Tech Stack:
 
