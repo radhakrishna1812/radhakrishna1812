@@ -7,7 +7,6 @@
 - 👨‍💻 All of my projects are available at **[(https://github.com/radhakrishna1812)]**
 - 💬 Ask me about **React.js, JavaScript, Express.js, and Web Projects**
 - 📫 Reach me at **[peddapatiradhakrishnaswamy5@gmail.com]**
-- 📄 Resume: **[(https://drive.google.com/file/d/1bHKwhf3huN5bbOwft1ZTyDWE1H8n09qD/view?usp=drivesdk)]**
 - ⚡ Fun fact: I love discussing tech with friends and learning something new every day.
 
 
