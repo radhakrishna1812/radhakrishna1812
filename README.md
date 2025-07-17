@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radha Krishna</h1>
 <h3 align="center">Aspiring Frontend / Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="300" src=""C:\Users\Radha Krishna Swamy\OneDrive\Pictures\文档\rr.jpg"" />
 
 - 🌱 I’m currently working on **React, Express, and Full Stack Projects**
 - 👨‍💻 All of my projects are available at **[(https://github.com/radhakrishna1812)]**
